@@ -1,0 +1,27 @@
+{
+  "name": "expressjwtcookiesdemo",
+  "version": "1.0.0",
+  "description": "jwtcookies demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandraBouillon/expressJWTCookiesDemo.git"
+  },
+  "author": "Alexandra Bouillon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandraBouillon/expressJWTCookiesDemo/issues"
+  },
+  "homepage": "https://github.com/AlexandraBouillon/expressJWTCookiesDemo#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "debug": "^4.3.2",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.12"
+  }
+}
